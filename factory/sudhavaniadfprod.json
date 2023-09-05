@@ -1,0 +1,9 @@
+{
+	"name": "sudhavaniadfprod",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87971eba-c30e-4748-8e47-785629982983",
+		"tenantId": "84084b6b-0bda-4574-af0c-c928722bd42e"
+	}
+}
