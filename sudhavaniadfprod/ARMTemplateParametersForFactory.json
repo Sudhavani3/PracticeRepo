@@ -5,8 +5,14 @@
 		"factoryName": {
 			"value": "sudhavaniadfprod"
 		},
+		"LS1_accountKey": {
+			"value": ""
+		},
 		"LS_adls_accountKey": {
 			"value": ""
+		},
+		"LS1_properties_typeProperties_url": {
+			"value": "https://sudhaadlsaccount.dfs.core.windows.net/"
 		},
 		"LS_adls_properties_typeProperties_url": {
 			"value": "https://sudhaadlsaccount.dfs.core.windows.net/"
